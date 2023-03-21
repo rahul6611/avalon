@@ -1097,6 +1097,11 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.36.0.tgz#9837f768c03a1e4a30bd304a64fb8844f0e72efe"
   integrity sha512-lxJ9R5ygVm8ZWgYdUweoq5ownDlJ4upvoWmO4eLxBYHdMo+vZ/Rx0EN6MbKWDJOSUGrqJy2Gt+Dyv/VKml0fjg==
 
+"@expo/vector-icons@^13.0.0":
+  version "13.0.0"
+  resolved "https://registry.yarnpkg.com/@expo/vector-icons/-/vector-icons-13.0.0.tgz#e2989b85e95a82bce216f88cf8fb583ab050ec95"
+  integrity sha512-TI+l71+5aSKnShYclFa14Kum+hQMZ86b95SH6tQUG3qZEmLTarvWpKwqtTwQKqvlJSJrpFiSFu3eCuZokY6zWA==
+
 "@hapi/hoek@^9.0.0":
   version "9.3.0"
   resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
@@ -3242,6 +3247,11 @@ expect@^29.0.0, expect@^29.5.0:
     jest-matcher-utils "^29.5.0"
     jest-message-util "^29.5.0"
     jest-util "^29.5.0"
+
+expo-blur@11.2.0:
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/expo-blur/-/expo-blur-11.2.0.tgz#8f5615e978b801c4e336b5294b72c127d8663b89"
+  integrity sha512-bj16aFGqsp7amJZiLvZt2nuwpKVJNCRcf/1c6NaCNrXCnXt/J8MloachNV0VoiiNKfKDV6EJTn+Jwo1sctchCA==
 
 extend-shallow@^2.0.1:
   version "2.0.1"
